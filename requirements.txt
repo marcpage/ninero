@@ -1,0 +1,4 @@
+fastapi==0.121.2
+pydantic==2.12.4
+PyJWT[cryptography]==2.10.1
+uvicorn[standard]==0.38.0
